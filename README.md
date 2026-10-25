@@ -1,4 +1,4 @@
-# VEDITE Offline Video Editor
+# VEDITE - Offline Video Editor
 
 Офлайн-редактор видео на Kotlin + Jetpack Compose.
 
